@@ -1,0 +1,9 @@
+# Ignore a specific file
+.env.dev
+.env.prod
+.idea
+.idea*
+__pycache__*
+
+# Ignore a directory and its contents
+__pycache__/

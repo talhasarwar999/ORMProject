@@ -1,0 +1,4 @@
+django==4.2.6
+djecrety==1.0.17
+django-jazzmin==2.6.0
+python-decouple==3.8
